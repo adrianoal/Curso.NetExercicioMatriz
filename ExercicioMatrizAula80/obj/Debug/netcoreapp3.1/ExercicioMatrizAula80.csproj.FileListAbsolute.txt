@@ -1,0 +1,11 @@
+C:\Users\aalima5\Desktop\Code C#\ExercicioMatrizAula80\ExercicioMatrizAula80\bin\Debug\netcoreapp3.1\ExercicioMatrizAula80.exe
+C:\Users\aalima5\Desktop\Code C#\ExercicioMatrizAula80\ExercicioMatrizAula80\bin\Debug\netcoreapp3.1\ExercicioMatrizAula80.deps.json
+C:\Users\aalima5\Desktop\Code C#\ExercicioMatrizAula80\ExercicioMatrizAula80\bin\Debug\netcoreapp3.1\ExercicioMatrizAula80.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\ExercicioMatrizAula80\ExercicioMatrizAula80\bin\Debug\netcoreapp3.1\ExercicioMatrizAula80.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\ExercicioMatrizAula80\ExercicioMatrizAula80\bin\Debug\netcoreapp3.1\ExercicioMatrizAula80.dll
+C:\Users\aalima5\Desktop\Code C#\ExercicioMatrizAula80\ExercicioMatrizAula80\bin\Debug\netcoreapp3.1\ExercicioMatrizAula80.pdb
+C:\Users\aalima5\Desktop\Code C#\ExercicioMatrizAula80\ExercicioMatrizAula80\obj\Debug\netcoreapp3.1\ExercicioMatrizAula80.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\ExercicioMatrizAula80\ExercicioMatrizAula80\obj\Debug\netcoreapp3.1\ExercicioMatrizAula80.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ExercicioMatrizAula80\ExercicioMatrizAula80\obj\Debug\netcoreapp3.1\ExercicioMatrizAula80.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\ExercicioMatrizAula80\ExercicioMatrizAula80\obj\Debug\netcoreapp3.1\ExercicioMatrizAula80.dll
+C:\Users\aalima5\Desktop\Code C#\ExercicioMatrizAula80\ExercicioMatrizAula80\obj\Debug\netcoreapp3.1\ExercicioMatrizAula80.pdb
